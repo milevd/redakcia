@@ -5,5 +5,5 @@ Datum: 13. 5. 2021
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 Sed ut ornare nibh, sit amet fringilla odio.
 ----
-Sed efficitur lectus at nulla vehicula blandit.
-Nullam ut ligula vulputate, fringilla tellus nec, finibus justo.
+Donec nisl erat, malesuada in tincidunt in, convallis at leo.
+Mauris vestibulum ullamcorper elit, in aliquet dui vestibulum ac.
