@@ -1,3 +1,6 @@
 Autor: Daniel Milev
 Nazov: Loerm ipsum
 Datum: 13. 5. 2021
+----
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Sed ut ornare nibh, sit amet fringilla odio.
