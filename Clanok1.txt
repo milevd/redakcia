@@ -1,3 +1,7 @@
 Autor: Daniel Milev
 Nazov: Loerm ipsum
 Datum: 13. 5. 2021
+----
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor tortor sed suscipit venenatis.
+Nullam accumsan luctus commodo. Integer non orci hendrerit sem elementum tempor.
+Nunc lacinia urna vel risus tempus, tincidunt blandit ipsum efficitur.
