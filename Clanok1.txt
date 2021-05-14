@@ -2,10 +2,11 @@ Autor: Daniel Milev
 Nazov: Loerm ipsum
 Datum: 13. 5. 2021
 ----
-Imperdiet sollicitudin ultrices.
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Sed ut ornare nibh, sit amet fringilla odio.
 ----
 Donec nisl erat, malesuada in tincidunt in, convallis at leo.
 Mauris vestibulum ullamcorper elit, in aliquet dui vestibulum ac.
 ----
-Curabitur odio turpis, suscipit vel pharetra sit amet, tristique id risus.
-Praesent a metus non felis pretium euismod.
+Praesent fermentum, enim ut dapibus ultricies, neque odio aliquet justo.
+Vitae lacinia neque velit vel libero.
